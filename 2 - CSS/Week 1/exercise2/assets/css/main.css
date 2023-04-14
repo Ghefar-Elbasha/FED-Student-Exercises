@@ -1,0 +1,27 @@
+
+body{
+    background-color: bisque;
+    color: black;
+}
+
+h1{
+    color: brown;
+}
+
+h1 :hover{
+    color: blue;
+    background-color: brown;
+}
+
+p{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+p :hover{
+
+    color: azure;
+    background-color: black;
+
+}
